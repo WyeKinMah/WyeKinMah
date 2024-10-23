@@ -1,5 +1,5 @@
 ## Hello there, I'm Wye-Kin.
-
+I'm a first year Actuarial Science student at Queen Mary University of London (QMUL).
 <!--
 **WyeKinMah/WyeKinMah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
